@@ -1,5 +1,6 @@
-# Snake Game
-This is a console-based implementation of the classic Snake game, written in C++. The game allows the player to control a snake and move it around a rectangular board, while trying to eat as many apples as possible without colliding with the walls or the snake's body.
+# dOXology oDyssey
+## The Nostalgia Snake Game
+This is a console-based implementation of the classic Snake game, written in C++. The game allows the player to control a snake and move it around a rectangular board while trying to eat as many apples as possible without colliding with the walls or the snake's body.
 
 ## Requirements
 This program requires a C++ compiler and the following libraries:
